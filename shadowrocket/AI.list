@@ -1,0 +1,116 @@
+# AI相关域名
+# ChatGPT
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,arkoselabs.co
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,a-msedge.net
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,edgecompute.app
+DOMAIN-SUFFIX,epsiloncdn.net
+DOMAIN-SUFFIX,f7tk.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gpt3sandbox.com
+DOMAIN-SUFFIX,heypi.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,javascript.info
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,pi.ai
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,telephony.goog
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN,client-api.arkoselabs.com
+DOMAIN,webpubsub.azure.com
+DOMAIN,openaicom.imgix.net
+DOMAIN,cdn.usefathom.com
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+
+DOMAIN-KEYWORD,openaiapi
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,stripe
+
+# Apple Intelligence
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,guzzoni.apple.com
+
+# Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# Microsoft Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+DOMAIN,blob.core.windows.net
+DOMAIN-SUFFIX,azurefd.net
+
+
+# GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
+
+# Google
+# AI Studio
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googleusercontent.com
+
+DOMAIN,aistudio.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,ai.google.dev
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN-KEYWORD,notebooklm.google
+DOMAIN-KEYWORD,labs.google
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
+
+DOMAIN-SUFFIX,diabrowser.engineering
